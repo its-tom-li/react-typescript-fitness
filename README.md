@@ -1,3 +1,6 @@
+# Development Showcase
+Click on [this link](https://292b6288.react-typescript-fitness-5l2.pages.dev) to view the live demo.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
